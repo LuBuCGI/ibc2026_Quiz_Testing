@@ -23,4 +23,8 @@ Die Anwendung bleibt eine statische Offline-/Browser-App. Teilnahme- und Analyti
 weiterhin nur im jeweiligen Browser (`localStorage`) gespeichert. Bei Tests auf mehreren Geräten
 werden die Daten daher **nicht zentral zusammengeführt**.
 
-Version: 1.5.2 GitHub Pages
+Version: 1.5.3 GitHub Pages
+
+
+### v1.5.3
+Die Erklärung nach einer richtigen Antwort bleibt dreimal so lange sichtbar wie zuvor.
